@@ -18,7 +18,7 @@ class GETCAMERAEDITOR_API AMyActor : public AActor
 public:	
 	// Sets default values for this actor's properties
 	AMyActor();
-	UPROPERTY(EditAnywhere, BlueprintReadWrite, Category = “Camera”)
+	UPROPERTY(EditAnywhere, BlueprintReadWrite)
 	class USceneComponent* SceneComponent;
 
 protected:
