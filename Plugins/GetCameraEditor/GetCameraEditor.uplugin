@@ -2,7 +2,7 @@
 	"FileVersion": 3,
 	"Version": 1,
 	"VersionName": "1.0",
-	"FriendlyName": "GetCameraEditorLiam",
+	"FriendlyName": "GetCameraEditor",
 	"Description": "Get access to the properties of the Viewport Editor Camera. Get and Set methods. Additional ultilty widget of examples.",
 	"Category": "Blueprints",
 	"CreatedBy": "Scenegraph Studios LTD",
